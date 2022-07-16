@@ -5,6 +5,6 @@ class IdQuestion_10926 {
         Scanner sc = new Scanner(System.in);
         String a = sc.next() + "??!";
         System.out.print(a);
-        sc.close(); //스캐너 사용 후 닫기
+        sc.close(); //스캐너 사용 후 닫는 메소드
     }
 }
