@@ -16,7 +16,7 @@ public class Multiplication_2588 {
     1. Integer.parseInt(String a);
         매개변수로 String형을 받는데 b.charAt(int index);에서는 Char형을 리턴하기 때문에 오류 발생 
 
-        
+
     2. int와 Integer의 차이
         int : 기본 자료형
         Integer : Wrapper 클래스(객체로 생성) - * 기본 자료형 8개를 "객체로 다루기" 위해서 JDK에서 만들어진 클래스 *
@@ -31,7 +31,7 @@ public class Multiplication_2588 {
         double numD = d.doubleValue();
         boolean bool = b.booleanValue();
 
-        ++ autoBoxing에 대해서 공부해보기
+        +++ autoBoxing에 대해서 공부해보기
 
 
     3. 각 자릿수를 구하는 방법
