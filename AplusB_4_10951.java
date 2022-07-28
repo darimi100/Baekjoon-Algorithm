@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+class AplusB_4_10951 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int a,b;
